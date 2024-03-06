@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ngoc Tang\Desktop\303 Assignment 2\main.cpp(142,10): warning C4129: 's': unrecognized character escape sequence
+C:\Users\Ngoc Tang\Desktop\303 Assignment 2\main.cpp(158,10): warning C4129: 's': unrecognized character escape sequence
+  303 Assignment 2.vcxproj -> C:\Users\Ngoc Tang\Desktop\303 Assignment 2\x64\Debug\303 Assignment 2.exe
